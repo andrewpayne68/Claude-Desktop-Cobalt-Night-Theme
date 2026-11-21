@@ -3,7 +3,7 @@ import type { Register, ThemeSetArgs } from 'claude-code'
 import { makeColors } from './make-colors.js'
 
 // Cobalt Night: near-black navy page, slightly lifted black sidebar and
-// chat panels, cobalt-blue text. Accent stays Anthropic clay so Claude's
+// chat panels, cyan text. Accent stays Anthropic clay so Claude's
 // marks and highlights keep their classic colour.
 const { theme, problems } = makeColors({
   label: 'Cobalt Night',
@@ -22,9 +22,9 @@ const { theme, problems } = makeColors({
         'surface-1': '#0c0f18', // chat cards / message boxes
         'surface-2': '#10131d', // left sidebar and panels
         'surface-3': '#141824', // menus
-        'text-primary': '#9db8ff', // cobalt, lifted so Desktop's contrast check passes (#8aaaff was refused)
-        'text-secondary': '#7393ea',
-        'text-muted': '#6282d6',
+        'text-primary': '#5ce1f0', // cyan (was cobalt #9db8ff)
+        'text-secondary': '#3fc6d9',
+        'text-muted': '#2fa8bc',
       },
     },
   },
