@@ -2,6 +2,14 @@
 
 A dark theme for the Claude desktop app: a near-black navy background, a slightly lighter black sidebar and chat panels, and cobalt-blue text. The accent stays Anthropic clay (#d97757), so Claude's marks look the way they normally do.
 
+## Quick install (one line)
+
+Paste this into a terminal on Windows, Ubuntu or CachyOS, then restart the Claude desktop app:
+
+```sh
+claude plugin marketplace add andrewpayne68/Claude-Desktop-Cobalt-Night-Theme; claude plugin install cobalt-night@cobalt-night
+```
+
 ## Install on another machine (Windows, Ubuntu, CachyOS)
 
 1. Unzip this folder somewhere you keep, e.g. `~/claude-mods/cobalt-night`.
