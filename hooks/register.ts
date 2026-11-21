@@ -22,7 +22,7 @@ const { theme, problems } = makeColors({
         'surface-1': '#0c0f18', // chat cards / message boxes
         'surface-2': '#10131d', // left sidebar and panels
         'surface-3': '#141824', // menus
-        'text-primary': '#8aaaff', // cobalt, lifted for readability
+        'text-primary': '#9db8ff', // cobalt, lifted so Desktop's contrast check passes (#8aaaff was refused)
         'text-secondary': '#7393ea',
         'text-muted': '#6282d6',
       },
