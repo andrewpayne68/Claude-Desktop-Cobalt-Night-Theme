@@ -18,9 +18,9 @@ const { theme, problems } = makeColors({
     gray: {
       anchors: {
         'surface-0': '#000000', // main background: pure black, like Ghostty
-        'surface-1': '#030812', // chat cards / message boxes
-        'surface-2': '#050b18', // left sidebar and panels
-        'surface-3': '#08101f', // menus
+        'surface-1': '#000000', // chat cards / message boxes
+        'surface-2': '#000000', // left sidebar and panels
+        'surface-3': '#000000', // menus
         'text-primary': '#30c0ff', // HaX0R Blue #11b7ff, lifted just enough for Desktop's contrast check
         'text-secondary': '#11b7ff', // HaX0R Blue foreground, exact
         'text-muted': '#0b80b5',
