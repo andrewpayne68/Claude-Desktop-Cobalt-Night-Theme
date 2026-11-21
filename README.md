@@ -2,7 +2,7 @@
 
 A dark theme for the Claude desktop app that matches Ghostty's HaX0R Blue: a pure black background with everything in electric blue (#11b7ff), the accent included.
 
-![Cobalt Night in the Claude desktop app's Code tab](screenshot.png)
+![Cobalt Night in the Claude desktop app's Code tab](screenshot-full.png)
 
 ## Quick install or update (one line)
 
