@@ -1,6 +1,6 @@
 # Cobalt Night
 
-A dark theme for the Claude desktop app: a near-black navy background, a slightly lighter black sidebar and chat panels, and cyan text. The accent stays Anthropic clay (#d97757), so Claude's marks look the way they normally do.
+A dark theme for the Claude desktop app that matches Ghostty's HaX0R Blue: a pure black background with everything in electric blue (#11b7ff), the accent included.
 
 ## Quick install (one line)
 
